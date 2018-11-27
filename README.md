@@ -1,3 +1,1 @@
-# chatbot
-# chat
 # testeChatLocaliza-ao
